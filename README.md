@@ -5,7 +5,7 @@ It is the year 2055. Surveillance has become ubiquitous to our society, to the p
 
 **Teams will train models to progress through a mix of 6 Computer Vision and Audio Processing tasks of increasing difficulty. Tasks will be unlocked as you clear the challenges. You will be scored based on the effectiveness of your models for each challenge, and the best-scoring teams would be given prizes.**  
 
-During the 2-day hackathon, you will have to **decide if you would like to push for a higher score for a challenge, or to do well enough to be able to complete all the challenges. May the best teams win!**   
+During the 2-day hackathon, you will have to **decide if you would like to push for a higher score for a challenge, or to do well enough to be able to complete all the challenges. May the best teams win!**    
 
 ## Training Videos
 [Data/Information - Training](https://drive.google.com/drive/folders/1imp5UOfDiMEdNloZGJj_Yi4Kq_cgi5wk?usp=sharing)  
