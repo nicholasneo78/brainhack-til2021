@@ -8,17 +8,17 @@ It is the year 2055. Surveillance has become ubiquitous to our society, to the p
 During the 2-day hackathon, you will have to **decide if you would like to push for a higher score for a challenge, or to do well enough to be able to complete all the challenges. May the best teams win!**    
 
 ## Training Videos
-[Data/Information - Training](https://drive.google.com/drive/folders/1imp5UOfDiMEdNloZGJj_Yi4Kq_cgi5wk?usp=sharing){:target="blank"}  
-[Videos - Training](https://www.youtube.com/playlist?list=PLTXKqfMiQUrp03eW1Xj6NI9ABK-BxrB4k){target="_blank"}  
+[Data/Information - Training](https://drive.google.com/drive/folders/1imp5UOfDiMEdNloZGJj_Yi4Kq_cgi5wk?usp=sharing) 
+[Videos - Training](https://www.youtube.com/playlist?list=PLTXKqfMiQUrp03eW1Xj6NI9ABK-BxrB4k)  
 
 ## For Competition
-[Data - Competition](https://drive.google.com/drive/folders/10gFXOzyzGptrM58OORUaRcowzln2eFet?usp=sharing){target="_blank"}    
-[Tutorials - Competition](https://www.youtube.com/playlist?list=PLTXKqfMiQUrqWRPXpGu28iV0Jpl5VXE4U){target="_blank"}   
+[Data - Competition](https://drive.google.com/drive/folders/10gFXOzyzGptrM58OORUaRcowzln2eFet?usp=sharing)    
+[Tutorials - Competition](https://www.youtube.com/playlist?list=PLTXKqfMiQUrqWRPXpGu28iV0Jpl5VXE4U)  
 
 ## Submission
 Do take note of the slides **in the repo** on how to submit your results for evaluation. We will be sending you the email contact of your mentor by today, do keep a lookout for that.   
   
-[Submission Link](https://drive.google.com/drive/folders/18MpTXLaOQk2eq9qWtkgmIauVYQX7_mpc?usp=sharing){target="_blank"}   
+[Submission Link](https://drive.google.com/drive/folders/18MpTXLaOQk2eq9qWtkgmIauVYQX7_mpc?usp=sharing)  
 
 ## AWS Matters
 Refer to https://aws.amazon.com/aws-cost-management/pricing/ for more info.   
