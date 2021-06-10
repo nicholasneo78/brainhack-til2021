@@ -8,7 +8,7 @@ It is the year 2055. Surveillance has become ubiquitous to our society, to the p
 During the 2-day hackathon, you will have to **decide if you would like to push for a higher score for a challenge, or to do well enough to be able to complete all the challenges. May the best teams win!**    
 
 ## Training Videos
-[Data/Information - Training](https://drive.google.com/drive/folders/1imp5UOfDiMEdNloZGJj_Yi4Kq_cgi5wk?usp=sharing){target="_blank"}  
+[Data/Information - Training](https://drive.google.com/drive/folders/1imp5UOfDiMEdNloZGJj_Yi4Kq_cgi5wk?usp=sharing){:target="_blank"}  
 [Videos - Training](https://www.youtube.com/playlist?list=PLTXKqfMiQUrp03eW1Xj6NI9ABK-BxrB4k){target="_blank"}  
 
 ## For Competition
