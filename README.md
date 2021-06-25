@@ -30,6 +30,34 @@ The hyperparameters of all of our 6 models are in the hyperparameters.pdf file.
 ## Challenge 1 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
 Number of classes: 5  
-Classes: Cat, Dog, Chicken, Bird, Snake   
-![Cat](./images/cat1.png)
-(Insert image here)
+Classes: cat, dog, chicken, bird, snake   
+![Cat](./images/cat1.png)   
+
+## Challenge 2 - Speech Classification
+Speech Classification task to predict a spoken word   
+Number of classes: 13   
+Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake  
+![audio_wave](./images/audiowave.png)  
+![melspectro](./images/melspec.jpg)   
+   
+## Challenge 3 - Computer Vision
+Object detection task to predict the classes and the bounding box of the objects   
+Number of classes: 7  
+Classes: cat, dog, chicken, bird, snake, elephant, crocodile 
+
+## Challenge 4 - Speech Classification
+Speech Classification task to predict a spoken word   
+Some white noise added to the test dataset
+Number of classes: 22   
+Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat, forward, backward, elephant, crocodile, dinosaur     
+
+## Challenge 5 - Computer Vision
+Object detection task to predict the classes and the bounding box of the objects   
+Number of classes: 8  
+Classes: cat, dog, chicken, bird, snake, elephant, crocodile, dinosaur    
+
+## Challenge 6 - Speech Classification
+Speech Classification task to predict a spoken word   
+Some background noise added to the test dataset
+Number of classes: 27   
+Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat,     
