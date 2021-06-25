@@ -14,4 +14,5 @@ Challenge 3 Computer Vision -> 61.168%
 Challenge 4 Speech Classification -> 65.074%  
 Challenge 5 Computer Vision -> 52.352%  
 Challenge 6 Speech Classification -> 67.809%  
-
+  
+The hyperparameters of all of our 6 models are in the hyperparameters.pdf file.
