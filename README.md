@@ -26,4 +26,10 @@ Challenge 5 Computer Vision -> 52.352%
 Challenge 6 Speech Classification -> 67.809%  
   
 The hyperparameters of all of our 6 models are in the hyperparameters.pdf file.   
-
+  
+## Challenge 1 - Computer Vision
+Object detection task to predict the classes and the bounding box of the objects   
+Number of classes: 5  
+Classes: Cat, Dog, Chicken, Bird, Snake   
+![Cat](./images/cat1.png)
+(Insert image here)
