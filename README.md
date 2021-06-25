@@ -49,8 +49,7 @@ Classes: cat, dog, chicken, bird, snake, elephant, crocodile
 Speech Classification task to predict a spoken word   
 Some white noise added to the test dataset
 Number of classes: 22   
-Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat, forward, backward, elephant, crocodile, dinosaur     
-
+Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat   
 ## Challenge 5 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
 Number of classes: 8  
@@ -60,4 +59,4 @@ Classes: cat, dog, chicken, bird, snake, elephant, crocodile, dinosaur
 Speech Classification task to predict a spoken word   
 Some background noise added to the test dataset
 Number of classes: 27   
-Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat,     
+Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat, forward, backward, elephant, crocodile, dinosaur          
