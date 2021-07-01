@@ -8,7 +8,7 @@
 - Kyrin   
 
 ## Result
-Our team made it into the finalist as we achieved Top 8 in this competition.
+Our team made it into the finalist as we achieved Top 8 in this competition. 🎉
 
 ## Synopsis of the Challenge
 It is the year 2055. Surveillance has become ubiquitous to our society, to the point where animals :cat::dog2::bird::chicken::snake: have become widely used as surveillance vessels via cybernetic augmentations. However, we have reason to believe in the existence of an unknown group that has been exploiting these animals to wreak havoc upon society, with increasing reports of people having their personal details or items stolen under mysterious circumstances.Your team has been tasked to build visual and audio classification models, in order to identify animals in various environments, and to take in commands in the field. It is up to you, as cadets of the TIL Institute, to set up countermeasures against these rogue surveillance animals. Being able to visually detect nearby animals would be a good first step in ascertaining suspicious behavior from these potential targets.   
@@ -29,34 +29,43 @@ The hyperparameters of all of our 6 models are in the hyperparameters.pdf file.
   
 ## Challenge 1 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
-Number of classes: 5  
-Classes: cat, dog, chicken, bird, snake   
-![Cat](./images/cat1.png)   
+Trained with 20 epochs, 0.003 LR, batch size of 4 with resnet 101   
+**Number of classes:** 5  
+**Classes:** cat, dog, chicken, bird, snake   
+
+<img height="300" alt="image" src=./images/cat1.png>
 
 ## Challenge 2 - Speech Classification
 Speech Classification task to predict a spoken word   
-Number of classes: 13   
-Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake  
-![audio_wave](./images/audiowave.png)  
-![melspectro](./images/melspec.jpg)   
+**Number of classes:** 13   
+**Classes:** zero, one, two, three, four, five, six, seven, eight, nine, bird, falcon, snake  
+
+<img height="300" alt="image" src=./images/audiowave.png> <img height="300" alt="image" src=./images/melspec.jpg>
    
 ## Challenge 3 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
-Number of classes: 7  
-Classes: cat, dog, chicken, bird, snake, elephant, crocodile 
+Trained with 12 epochs, 0.003 LR, batch size of 4 with resnet 101   
+**Number of classes:** 7  
+**Classes:** cat, dog, chicken, bird, snake, elephant, crocodile 
+
+<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052100-58622d00-da50-11eb-83e4-7e1593411bfe.png>
 
 ## Challenge 4 - Speech Classification
 Speech Classification task to predict a spoken word   
-Some white noise added to the test dataset
-Number of classes: 22   
-Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat   
+Some white noise added to the test dataset   
+**Number of classes:** 22   
+**Classes:** zero, one, two, three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat   
+
 ## Challenge 5 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
-Number of classes: 8  
-Classes: cat, dog, chicken, bird, snake, elephant, crocodile, dinosaur    
+Trained with 10 epochs, 0.003 LR, batch size of 4 with resnet 101   
+**Number of classes:** 8  
+**Classes:** cat, dog, chicken, bird, snake, elephant, crocodile, dinosaur 
+
+<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052299-be4eb480-da50-11eb-97bf-0ca0227506a4.png>
 
 ## Challenge 6 - Speech Classification
 Speech Classification task to predict a spoken word   
-Some background noise added to the test dataset
-Number of classes: 27   
-Classes: zero, one, two three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat, forward, backward, elephant, crocodile, dinosaur          
+Some background noise added to the test dataset   
+**Number of classes:** 27   
+**Classes:** zero, one, two, three, four, five, six, seven, eight, nine, bird, falcon, snake, stop, up, right, chicken, left, down, dog, go, cat, forward, backward, elephant, crocodile, dinosaur          
