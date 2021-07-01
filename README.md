@@ -25,7 +25,11 @@ Challenge 4 Speech Classification -> 65.074%
 Challenge 5 Computer Vision -> 52.352%  
 Challenge 6 Speech Classification -> 67.809%  
   
-The hyperparameters of all of our 6 models are in the hyperparameters.pdf file.   
+The hyperparameters of all of our 6 models are as shown below.
+
+## Hyperparameters used for the 6 challenges
+![hyp1](./images/hyperparams1.png)     
+![hyp2](./images/hyperparams2.png)   
   
 ## Challenge 1 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
