@@ -1,6 +1,6 @@
 # DSTA BrainHack - Today I Learnt 2021 (TIL2021)
 
-## Team 200 Success Team Members
+## Team 200 Success Members
 - Kai Jie   
 - Nicholas   
 - Siew Yeng    
