@@ -33,14 +33,14 @@ Trained with 20 epochs, 0.003 LR, batch size of 4 with resnet 101
 **Number of classes:** 5  
 **Classes:** cat, dog, chicken, bird, snake   
 
-<img height="300" alt="image" src=./images/cat1.png> <img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124053501-f35c0680-da52-11eb-9391-1cfc8a0821a4.png>
+<img height="270" alt="image" src=./images/cat1.png> <img height="270" alt="image" src=https://user-images.githubusercontent.com/48685014/124053501-f35c0680-da52-11eb-9391-1cfc8a0821a4.png>
 
 ## Challenge 2 - Speech Classification
 Speech Classification task to predict a spoken word   
 **Number of classes:** 13   
 **Classes:** zero, one, two, three, four, five, six, seven, eight, nine, bird, falcon, snake  
 
-<img height="300" alt="image" src=./images/audiowave.png> <img height="300" alt="image" src=./images/melspec.jpg>
+<img height="270" alt="image" src=./images/audiowave.png> <img height="270" alt="image" src=./images/melspec.jpg>
    
 ## Challenge 3 - Computer Vision
 Object detection task to predict the classes and the bounding box of the objects   
@@ -48,7 +48,7 @@ Trained with 12 epochs, 0.003 LR, batch size of 4 with resnet 101
 **Number of classes:** 7  
 **Classes:** cat, dog, chicken, bird, snake, elephant, crocodile 
 
-<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052100-58622d00-da50-11eb-83e4-7e1593411bfe.png> <img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124053688-42a23700-da53-11eb-84c1-5f3875f053fe.png>
+<img height="270" alt="image" src=https://user-images.githubusercontent.com/48685014/124052100-58622d00-da50-11eb-83e4-7e1593411bfe.png> <img height="270" alt="image" src=https://user-images.githubusercontent.com/48685014/124053688-42a23700-da53-11eb-84c1-5f3875f053fe.png>
 
 ## Challenge 4 - Speech Classification
 Speech Classification task to predict a spoken word   
@@ -62,7 +62,7 @@ Trained with 10 epochs, 0.003 LR, batch size of 4 with resnet 101
 **Number of classes:** 8  
 **Classes:** cat, dog, chicken, bird, snake, elephant, crocodile, dinosaur 
 
-<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052299-be4eb480-da50-11eb-97bf-0ca0227506a4.png>
+<img height="270" alt="image" src=https://user-images.githubusercontent.com/48685014/124052299-be4eb480-da50-11eb-97bf-0ca0227506a4.png>
 
 ## Challenge 6 - Speech Classification
 Speech Classification task to predict a spoken word   
