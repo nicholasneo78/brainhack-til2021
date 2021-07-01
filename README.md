@@ -1,4 +1,4 @@
-# BrainHack - Today I Learnt 2021 (TIL2021)
+# DSTA BrainHack - Today I Learnt 2021 (TIL2021)
 
 ## Team 200 Success Team Members
 - Kai Jie   
@@ -33,7 +33,7 @@ Trained with 20 epochs, 0.003 LR, batch size of 4 with resnet 101
 **Number of classes:** 5  
 **Classes:** cat, dog, chicken, bird, snake   
 
-<img height="300" alt="image" src=./images/cat1.png>
+<img height="300" alt="image" src=./images/cat1.png> <img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124053501-f35c0680-da52-11eb-9391-1cfc8a0821a4.png>
 
 ## Challenge 2 - Speech Classification
 Speech Classification task to predict a spoken word   
@@ -48,7 +48,7 @@ Trained with 12 epochs, 0.003 LR, batch size of 4 with resnet 101
 **Number of classes:** 7  
 **Classes:** cat, dog, chicken, bird, snake, elephant, crocodile 
 
-<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052100-58622d00-da50-11eb-83e4-7e1593411bfe.png>
+<img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124052100-58622d00-da50-11eb-83e4-7e1593411bfe.png> <img height="300" alt="image" src=https://user-images.githubusercontent.com/48685014/124053688-42a23700-da53-11eb-84c1-5f3875f053fe.png>
 
 ## Challenge 4 - Speech Classification
 Speech Classification task to predict a spoken word   
